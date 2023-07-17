@@ -1,0 +1,26 @@
+.nationItem {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+.flag {
+  height: 150px;
+}
+.bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.name2 {
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 20px;
+}
+.button2 {
+  background-color: transparent;
+  border-color: #ffffff;
+  color: #ffffff;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 10px;
+}
